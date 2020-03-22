@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "610049881682",
+    "firebase_url": "https://panic-button-985bf.firebaseio.com",
+    "project_id": "panic-button-985bf",
+    "storage_bucket": "panic-button-985bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610049881682:android:718c5427897f8e0f91518b",
+        "android_client_info": {
+          "package_name": "org.codingindia.travel_safe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610049881682-gmtbsc5pmnqijqe4821e721rluptnhup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.codingindia.travel_safe",
+            "certificate_hash": "89d8812909acf07c8f128ae185b9b087b9316a8c"
+          }
+        },
+        {
+          "client_id": "610049881682-rg8bkd9s44elotr9lhpkdv0lh1ggp2am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkqY4MwADpESbQW7g5nFQCnl-gIBAhWtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610049881682-rg8bkd9s44elotr9lhpkdv0lh1ggp2am.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
